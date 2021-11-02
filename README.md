@@ -8,7 +8,7 @@ As I create more and more repositories, it's getting increasingly difficult to k
 - 📚 Courses I've taken.
 - 🏆 Challenges/katas/golf.
 
-I hope it helps 🙂
+I hope it helps :grinning:
 
 See you around,\
 Abraham
