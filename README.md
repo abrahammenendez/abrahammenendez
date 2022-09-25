@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Abraham Menéndez, a 28-year-old software developer from Spain (more info in my bio).
+I'm Abraham Menéndez, a 29-year-old software developer from Spain (more info in my bio).
 
 As I create more and more repositories, it's getting increasingly difficult to keep them organized. To make our life easier, each repository has now an icon in its description. This is what they mean:
 - 💡 Original projects/ideas.
