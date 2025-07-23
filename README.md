@@ -8,7 +8,7 @@ As I keep creating repositories (most of them private :upside_down_face:), it's 
 - 📚 Courses I've taken.
 - 🏆 Challenges/katas/golf.
 
-I hope it helps :)
+I hope it helps!
 
 See you around,\
 Abraham
