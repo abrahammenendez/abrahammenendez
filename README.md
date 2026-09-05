@@ -8,7 +8,7 @@ As I keep creating repos (most of them private), it's getting tricky to keep eve
 - 📚 Courses I've taken.
 - 🏆 Challenges/katas/golf.
 
-FYI most of my professional work is done with company-specific accounts (e.g. [@abraham-menendez-maersk](https://github.com/abraham-menendez-maersk)).
+FYI some of my professional work is done with company-specific accounts (e.g. [@abraham-menendez-maersk](https://github.com/abraham-menendez-maersk)).
 
 See you around,\
 Abraham
